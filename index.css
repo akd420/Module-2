@@ -1,0 +1,18 @@
+.third{
+    background-color: chocolate;
+}
+*{
+    text-align: center;
+}
+.div{
+    background-image: url(channel-1.jpeg);
+    width: 500px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+    border:solid;
+    border-width: 5px;
+    border-color: brown;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.3);
+}
